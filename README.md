@@ -18,4 +18,5 @@ Perfect for students, space lovers, and anyone who wants to learn more about our
 - 📱 **Responsive Design** – Works well on both computer and mobile screens
 - 🎨 **Space Theme** – Dark background with stars, glowing sun, and floating moon
 
-## File Structure
+### 🌌 Live Demo
+**[Visit the Website](https://space-explorer-five-olive.vercel.app/)**
