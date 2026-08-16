@@ -26,10 +26,5 @@ Perfect for students, space lovers, and anyone who wants to learn more about our
 
 ### 🌌 Live Demo
 **[Visit the Website](https://space-explorer-five-olive.vercel.app/)**
+https://space-explorer-five-olive.vercel.app
 
-## Live Demo
-
-<a href=https://space-explorer-five-olive.vercel.app
-" target="_blank" rel="noopener noreferrer">
-  Open Website
-</a>
